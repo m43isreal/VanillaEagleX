@@ -1,4 +1,6 @@
 # EaglercraftX Server
+### this is against github ToS
+#### github is managed by Microsoft so watch out
 
 ## Credits
 eaglercraft and eaglercraftx: lax1dude (calder young)
